@@ -1,4 +1,19 @@
 img {
-    height: 200px;
+    height: 300px;
     padding: 20px
+}
+
+#business-card {
+    display: flex;
+    border: dotted;
+    border-color: rgb(0, 0, 255);
+}
+
+#top-navigation {
+    padding: 10px;
+    text-align: right;
+}
+
+.top-navigation {
+    margin-left: 10px;
 }
